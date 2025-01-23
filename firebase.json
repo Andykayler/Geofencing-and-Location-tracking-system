@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "loanmanagementapp-ef745",
+          "appId": "1:224323967429:android:7b47abc577e0a42f0193ac",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "loanmanagementapp-ef745",
+          "configurations": {
+            "android": "1:224323967429:android:7b47abc577e0a42f0193ac",
+            "ios": "1:224323967429:ios:12eb39a5fb3216810193ac",
+            "macos": "1:224323967429:ios:12eb39a5fb3216810193ac",
+            "web": "1:224323967429:web:4152d0be4e86102f0193ac",
+            "windows": "1:224323967429:web:7660b6a77693e3420193ac"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  }
+}
