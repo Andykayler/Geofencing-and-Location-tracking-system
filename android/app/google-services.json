@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "453287365316",
+    "project_id": "finalproject-500bd",
+    "storage_bucket": "finalproject-500bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:453287365316:android:f4afac006cbf6f0db91791",
+        "android_client_info": {
+          "package_name": "com.example.watch_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCL1ZvB1JNSlqvMTi-UFfC_KpckSDfGaYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
